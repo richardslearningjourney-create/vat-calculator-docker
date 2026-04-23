@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 3px solid rgb(104, 109, 104);
   padding: 10px;
 }
 
@@ -12,7 +12,13 @@
   padding: 10px;
 }
 
+marquee{
+  padding: 10px;
+  background-color: rgb(14, 13, 13);
+  color: lightgreen;
+}
+
 body{
   padding: 10px;
-  background-color: antiquewhite;
+  background-color: lightgray;
 }
