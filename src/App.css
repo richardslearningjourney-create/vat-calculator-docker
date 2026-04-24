@@ -19,6 +19,7 @@ marquee{
 }
 
 body{
+  color: limegreen;
   padding: 10px;
   background-color: rgb(2, 9, 14);
 }
