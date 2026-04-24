@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid rgb(104, 109, 104);
+  border: 8px solid rgb(95, 190, 219);
   padding: 10px;
 }
 
@@ -15,10 +15,10 @@
 marquee{
   padding: 10px;
   background-color: rgb(14, 13, 13);
-  color: lightgreen;
+  color:  darkgoldenrod;
 }
 
 body{
   padding: 10px;
-  background-color: lightskyblue;
+  background-color: rgb(2, 9, 14);
 }
