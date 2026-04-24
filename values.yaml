@@ -1,0 +1,2 @@
+image: richardslearningjourney/vat:<+pipeline.sequenceId>
+replicas: 1
